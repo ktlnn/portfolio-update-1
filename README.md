@@ -1,7 +1,7 @@
 # portfolio-update-1 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Links
-Deployed Webpage:
+Deployed Webpage: https://ktlnn.github.io/portfolio-update-1/
 
 ## Table of Contents
 - [User Story](#user-story)
@@ -22,11 +22,12 @@ Full Stack Web Developers want to be able to showcase their skills and projects 
 
 ## Webpage Screenshots
 ![homepage](/assets/images/homepage-screenshot.png)
-![homepage](/assets/images/hompage-about-me-screenshot.png)
-![homepage](/assets/images/portfolio-screenshot.png)
+![homepage-about-me](/assets/images/hompage-about-me-screenshot.png)
+![portfolio](/assets/images/portfolio-screenshot.png)
 ![contact](/assets/images/contact-screenshot.png)
 
 ## Webpage Demo
+![portfolio-demo](/assets/images/portolio-demo.gif)
 
 ## Questions
 If you have any questions about my portolio, feel free to contact me at: ktlnn.nguyen@gmail.com
