@@ -90,11 +90,14 @@ h2{
 
 ul.social{
     list-style-type: none;
+    text-align: center;
 }
 
-a li{
+li{
+    margin-top: 10px;
     display: inline-block;
-   padding: 10px;
+    padding: 10px;
+    
 }
 
 a{
