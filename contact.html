@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Playfair+Display&display=swap" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+    <title>Katelynn|Contact</title>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-logo" href="/homepage.html">Katelynn Nguyen</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-text" href="/homepage.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-text" href="portfolio.html">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-text" href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <h1>Contact Me</h1>
+
+    <div class="card container">
+        <div class="card-body">
+            <h2>Don't Be Shy, Come Say Hi!</h2>
+            <hr>
+            
+            <form id="contact-form" method="POST">
+                <div class="form-group">
+                    <label htmlFor="name">Name</label>
+                    <input type="text" class="form-control" id="name" />
+                </div>
+                <div class="form-group">
+                    <label htmlFor="exampleInputEmail1">Email address</label>
+                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" />
+                </div>
+                <div class="form-group">
+                    <label htmlFor="message">Message</label>
+                    <textarea class="form-control" rows="5" id="message"></textarea>
+                </div>
+                <a role="button" href="mailto:ktlnn.nguyen@gmail.com" type="submit" class="btn about-btn">Submit</a>
+            </form>
+            
+            <ul class="social">
+            <li><p>You can contact me through email with the form above, or find me on:</p></li>
+            <a href="https://www.linkedin.com/in/katelynnnguyen/" target="__blank"><li><i class="fa fa-linkedin-square"></i> LinkedIn</li></a>
+            <a href="https://github.com/ktlnn" target="__blank"><li><i class="fa fa-github"></i> Github</li></a>
+            </ul>
+        </div>
+    </div>
+
+    <footer>
+        <p class="footer">Handcrafted by me <span>&#169;</span> Katelynn 2020</p>
+    </footer>
+
+</body>
+
+</html>
