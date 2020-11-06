@@ -21,6 +21,10 @@ SO THAT I will appear employer ready
 Full Stack Web Developers want to be able to showcase their skills and projects utilizing a coding language that is relevant to the coding community. Creating a portfolio will allow employers to see if the developer's skillset matches their companies' vision. 
 
 ## Webpage Screenshots
+![homepage](/assets/images/homepage-screenshot.png)
+![homepage](/assets/images/hompage-about-me-screenshot.png)
+![homepage](/assets/images/portfolio-screenshot.png)
+![contact](/assets/images/contact-screenshot.png)
 
 ## Webpage Demo
 
