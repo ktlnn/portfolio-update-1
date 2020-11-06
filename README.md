@@ -27,7 +27,7 @@ Full Stack Web Developers want to be able to showcase their skills and projects 
 ![contact](/assets/images/contact-screenshot.png)
 
 ## Webpage Demo
-![portfolio-demo](/assets/images/portolio-demo.gif)
+![portfolio-demo](/assets/images/portfolio-demo.gif)
 
 ## Questions
 If you have any questions about my portolio, feel free to contact me at: ktlnn.nguyen@gmail.com
