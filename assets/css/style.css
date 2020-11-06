@@ -1,0 +1,67 @@
+body{
+    background-image: url(../images/purple-flowers.jpeg);
+    background-size: cover;
+}
+
+/* homepage styling */
+.homepage-img{
+    border-radius: 50%;
+    max-width: 35%;
+    max-height: 35%;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    padding: 30px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.about-me-card{
+    background-color: rgba(170, 139, 219, 0.904);
+}
+
+h2{
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+}
+
+.homepage-card-text{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+/* portfolio styling */
+
+.col{
+    padding: 10px;
+}
+
+.card{
+    background-color: rgba(170, 139, 219, 0.904);
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+.btn{
+    background-color: rgba(96, 40, 250, 0.637);
+    color: white;
+}
+
+.btn:hover{
+    color:white;
+}
+
+.footer{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-family: 'Oswald', sans-serif;
+}
