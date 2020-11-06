@@ -86,8 +86,6 @@ h2{
 
 /* contact page styling */
 
-
-
 ul.social{
     list-style-type: none;
     text-align: center;
@@ -106,6 +104,10 @@ a{
 
 a:hover{
     color: white;
+}
+
+.contact-btn{
+    float: right;
 }
 
 
